@@ -1,349 +1,350 @@
-region_name
-Abertawe - Swansea
-Adur
-Allerdale
-Amber Valley
-Arun
-Ashfield
-Ashford
-Aylesbury Vale
-Babergh
-Barking and Dagenham
-Barnet
-Barnsley
-Barrow-in-Furness
-Basildon
-Basingstoke and Deane
-Bassetlaw
-Bath and North East Somerset
-Bedford
-Bexley
-Birmingham
-Blaby
-Blackburn with Darwen
-Blackpool
-Blaenau Gwent - Blaenau Gwent
-Bolsover
-Bolton
-Boston
-Bournemouth
-Bracknell Forest
-Bradford
-Braintree
-Breckland
-Brent
-Brentwood
-Broadland
-Bromley
-Bromsgrove
-Broxbourne
-Broxtowe
-Burnley
-Bury
-Caerdydd - Cardiff
-Caerffili - Caerphilly
-Calderdale
-Cambridge
-Camden
-Cannock Chase
-Canterbury
-Carlisle
-Casnewydd - Newport
-Castell-nedd Port Talbot - Neath Port Talbot
-Castle Point
-Central Bedfordshire
-Charnwood
-Chelmsford
-Cheltenham
-Cherwell
-Cheshire East
-Cheshire West and Chester
-Chesterfield
-Chichester
-Chiltern
-Chorley
-Christchurch
-City of Bristol
-City of Derby
-City of Kingston upon Hull
-City of Leicester
-City of London
-City of Nottingham
-City of Peterborough
-City of Plymouth
-City of Portsmouth
-City of Southampton
-City of Stoke-on-Trent
-City of Westminster
-City of Wolverhampton
-Colchester
-Conwy - Conwy
-Copeland
-Corby
-Cornwall
-Cotswold
-County Durham
-County of Herefordshire
-Coventry
-Craven
-Crawley
-Croydon
-Dacorum
-Darlington
-Dartford
-Daventry
-Derbyshire Dales
-Doncaster
-Dover
-Dudley
-Ealing
-East Cambridgeshire
-East Devon
-East Dorset
-East Hampshire
-East Hertfordshire
-East Lindsey
-East Northamptonshire
-East Riding of Yorkshire
-East Staffordshire
-Eastbourne
-Eastleigh
-Eden
-Elmbridge
-Enfield
-Epping Forest
-Epsom and Ewell
-Erewash
-Exeter
-Fareham
-Fenland
-Forest Heath
-Forest of Dean
-Fylde
-Gateshead
-Gedling
-Gloucester
-Gosport
-Gravesham
-Great Yarmouth
-Greenwich
-Guildford
-Gwynedd - Gwynedd
-Hackney
-Halton
-Hambleton
-Hammersmith and Fulham
-Harborough
-Haringey
-Harlow
-Hartlepool
-Harrogate
-Harrow
-Hart
-Hastings
-Havant
-Havering
-Hertsmere
-High Peak
-Hillingdon
-Hinckley and Bosworth
-Horsham
-Hounslow
-Huntingdonshire
-Hyndburn
-Ipswich
-Isle of Wight
-Isles of Scilly
-Islington
-Kensington and Chelsea
-Kettering
-Kings Lynn and West Norfolk
-Kingston upon Thames
-Kirklees
-Knowsley
-Lambeth
-Lancaster
-Leeds
-Lewes
-Lewisham
-Lichfield
-Lincoln
-Liverpool
-Luton
-Maidstone
-Maldon
-Malvern Hills
-Manchester
-Mansfield
-Medway
-Melton
-Mendip
-Merthyr Tudful - Merthyr Tydfil
-Merton
-Mid Devon
-Mid Suffolk
-Mid Sussex
-Middlesbrough
-Milton Keynes
-Mole Valley
-New Forest
-Newark and Sherwood
-Newcastle-under-Lyme
-Newcastle upon Tyne
-Newham
-North Devon
-North Dorset
-North East Derbyshire
-North East Lincolnshire
-North Hertfordshire
-North Kesteven
-North Lincolnshire
-North Norfolk
-North Somerset
-North Tyneside
-North Warwickshire
-North West Leicestershire
-Northampton
-Northumberland
-Norwich
-Nuneaton and Bedworth
-Oadby and Wigston
-Oldham
-Oxford
-Pendle
-Pen-y-bont ar Ogwr - Bridgend
-Preston
-Poole
-Powys - Powys
-Purbeck
-Reading
-Redbridge
-Redcar and Cleveland
-Redditch
-Reigate and Banstead
-Rhondda Cynon Taf - Rhondda Cynon Taf
-Ribble Valley
-Richmond upon Thames
-Richmondshire
-Rochdale
-Rochford
-Rossendale
-Rother
-Rotherham
-Rugby
-Runnymede
-Rushcliffe
-Rushmoor
-Rutland
-Ryedale
-Salford
-Sandwell
-Scarborough
-Sedgemoor
-Sefton
-Selby
-Sevenoaks
-Sheffield
-Shepway
-Shropshire
-Sir Benfro - Pembrokeshire
-Sir Ceredigion - Ceredigion
-Sir Ddinbych - Denbighshire
-Sir Fynwy - Monmouthshire
-Sir Gaerfyrddin - Carmarthenshire
-Sir y Fflint - Flintshire
-Sir Ynys Mon - Isle of Anglesey
-Slough
-Solihull
-South Bucks
-South Cambridgeshire
-South Derbyshire
-South Gloucestershire
-South Hams
-South Holland
-South Kesteven
-South Lakeland
-South Norfolk
-South Northamptonshire
-South Oxfordshire
-South Ribble
-South Somerset
-South Staffordshire
-South Tyneside District
-Southend-on-Sea
-Southwark
-Spelthorne
-St. Albans
-St. Edmundsbury
-St. Helens
-Stafford
-Staffordshire Moorlands
-Stevenage
-Stockport
-Stockton-on-Tees
-Stratford-on-Avon
-Stroud
-Suffolk Coastal
-Sunderland
-Surrey Heath
-Sutton
-Swale
-Swindon
-Tameside
-Tamworth
-Tandridge
-Taunton Deane
-Teignbridge
-Telford and Wrekin
-Tendring
-Test Valley
-Tewkesbury
-Thanet
-The City of Brighton and Hove
-Three Rivers
-Thurrock
-Tonbridge and Malling
-Tor-faen - Torfaen
-Torbay
-Torridge
-Tower Hamlets
-Trafford
-Tunbridge Wells
-Uttlesford
-Vale of Glamorgan
-Vale of White Horse
-Wakefield
-Walsall
-Waltham Forest
-Wandsworth
-Warrington
-Warwick
-Watford
-Waveney
-Waverley
-Wealden
-Wellingborough
-Welwyn Hatfield
-West Berkshire
-West Devon
-West Dorset
-West Lancashire
-West Lindsey
-West Oxfordshire
-West Somerset
-Weymouth and Portland
-Wigan
-Wiltshire
-Winchester
-Windsor and Maidenhead
-Wirral
-Woking
-Wokingham
-Worcester
-Worthing
-Wrecsam - Wrexham
-Wychavon
-Wycombe
-Wyre Forest
-Wyre
-York
+region_name,url
+Abertawe - Swansea,https://www.swansea.gov.uk
+Adur,https://www.adur-worthing.gov.uk
+Allerdale,http://www.allerdale.gov.uk/
+Amber Valley,http://www.ambervalley.gov.uk/
+Arun,https://www.arun.gov.uk/
+Ashfield,https://www.ashfield.gov.uk/
+Ashford,https://www.ashford.gov.uk/
+Aylesbury Vale,https://www.aylesburyvaledc.gov.uk/
+Babergh,http://www.babergh.gov.uk/
+Barking and Dagenham,
+Barnet,
+Barnsley,
+Barrow-in-Furness,
+Basildon,
+Basingstoke and Deane,
+Bassetlaw,
+Bath and North East Somerset,http://www.bathnes.gov.uk
+Bedford,
+Bexley,
+Birmingham,
+Blaby,
+Blackburn with Darwen,
+Blackpool,
+Blaenau Gwent - Blaenau Gwent,
+Bolsover,
+Bolton,
+Boston,
+Bournemouth,
+Bracknell Forest,
+Bradford,
+Braintree,
+Breckland,
+Brent,
+Brentwood,
+Broadland,
+Bromley,
+Bromsgrove,
+Broxbourne,
+Broxtowe,
+Burnley,
+Bury,
+Caerdydd - Cardiff,
+Caerffili - Caerphilly,
+Calderdale,
+Cambridge,
+Camden,
+Cannock Chase,
+Canterbury,
+Carlisle,
+Casnewydd - Newport,
+Castell-nedd Port Talbot - Neath Port Talbot,
+Castle Point,
+Central Bedfordshire,
+Charnwood,
+Chelmsford,
+Cheltenham,
+Cherwell,
+Cheshire East,
+Cheshire West and Chester,
+Chesterfield,
+Chichester,
+Chiltern,
+Chorley,
+Christchurch,
+City of Bristol,
+City of Derby,
+City of Kingston upon Hull,
+City of Leicester,
+City of London,
+City of Nottingham,
+City of Peterborough,
+City of Plymouth,
+City of Portsmouth,
+City of Southampton,
+City of Stoke-on-Trent,
+City of Westminster,
+City of Wolverhampton,
+Colchester,
+Conwy - Conwy,
+Copeland,
+Corby,
+Cornwall,
+Cotswold,
+County Durham,
+County of Herefordshire,
+Coventry,
+Craven,
+Crawley,
+Croydon,
+Dacorum,
+Darlington,
+Dartford,
+Daventry,
+Derbyshire Dales,
+Doncaster,
+Dover,
+Dudley,
+Ealing,
+East Cambridgeshire,
+East Devon,
+East Dorset,
+East Hampshire,
+East Hertfordshire,
+East Lindsey,
+East Northamptonshire,
+East Riding of Yorkshire,
+East Staffordshire,
+Eastbourne,
+Eastleigh,
+Eden,
+Elmbridge,
+Enfield,
+Epping Forest,
+Epsom and Ewell,
+Erewash,
+Exeter,
+Fareham,
+Fenland,
+Forest Heath,
+Forest of Dean,
+Fylde,
+Gateshead,
+Gedling,
+Gloucester,
+Gosport,
+Gravesham,
+Great Yarmouth,
+Greenwich,
+Guildford,
+Gwynedd - Gwynedd,
+Hackney,
+Halton,
+Hambleton,
+Hammersmith and Fulham,
+Harborough,
+Haringey,
+Harlow,
+Hartlepool,
+Harrogate,
+Harrow,
+Hart,
+Hastings,
+Havant,
+Havering,
+Hertsmere,
+High Peak,
+Hillingdon,
+Hinckley and Bosworth,
+Horsham,
+Hounslow,
+Huntingdonshire,
+Hyndburn,
+Ipswich,
+Isle of Wight,
+Isles of Scilly,
+Islington,
+Kensington and Chelsea,
+Kettering,
+Kings Lynn and West Norfolk,
+Kingston upon Thames,
+Kirklees,
+Knowsley,
+Lambeth,
+Lancaster,
+Leeds,
+Lewes,
+Lewisham,
+Lichfield,
+Lincoln,
+Liverpool,
+Luton,
+Maidstone,
+Maldon,
+Malvern Hills,
+Manchester,
+Mansfield,
+Medway,
+Melton,
+Mendip,
+Merthyr Tudful - Merthyr Tydfil,
+Merton,
+Mid Devon,
+Mid Suffolk,
+Mid Sussex,
+Middlesbrough,
+Milton Keynes,
+Mole Valley,
+New Forest,
+Newark and Sherwood,
+Newcastle-under-Lyme,
+Newcastle upon Tyne,
+Newham,
+North Devon,
+North Dorset,
+North East Derbyshire,
+North East Lincolnshire,
+North Hertfordshire,
+North Kesteven,
+North Lincolnshire,
+North Norfolk,
+North Somerset,
+North Tyneside,
+North Warwickshire,
+North West Leicestershire,
+Northampton,
+Northumberland,
+Norwich,
+Nuneaton and Bedworth,
+Oadby and Wigston,
+Oldham,
+Oxford,
+Pendle,
+Pen-y-bont ar Ogwr - Bridgend,
+Preston,
+Poole,
+Powys - Powys,
+Purbeck,
+Reading,
+Redbridge,
+Redcar and Cleveland,
+Redditch,
+Reigate and Banstead,
+Rhondda Cynon Taf - Rhondda Cynon Taf,
+Ribble Valley,
+Richmond upon Thames,
+Richmondshire,
+Rochdale,
+Rochford,
+Rossendale,
+Rother,
+Rotherham,
+Rugby,
+Runnymede,
+Rushcliffe,
+Rushmoor,
+Rutland,
+Ryedale,
+Salford,
+Sandwell,
+Scarborough,
+Sedgemoor,
+Sefton,
+Selby,
+Sevenoaks,
+Sheffield,
+Shepway,
+Shropshire,
+Sir Benfro - Pembrokeshire,
+Sir Ceredigion - Ceredigion,
+Sir Ddinbych - Denbighshire,
+Sir Fynwy - Monmouthshire,
+Sir Gaerfyrddin - Carmarthenshire,
+Sir y Fflint - Flintshire,
+Sir Ynys Mon - Isle of Anglesey,
+Slough,
+Solihull,
+South Bucks,
+South Cambridgeshire,
+South Derbyshire,
+South Gloucestershire,
+South Hams,
+South Holland,
+South Kesteven,
+South Lakeland,
+South Norfolk,
+South Northamptonshire,
+South Oxfordshire,
+South Ribble,
+South Somerset,
+South Staffordshire,
+South Tyneside District,
+Southend-on-Sea,
+Southwark,
+Spelthorne,
+St. Albans,
+St. Edmundsbury,
+St. Helens,
+Stafford,
+Staffordshire Moorlands,
+Stevenage,
+Stockport,
+Stockton-on-Tees,
+Stratford-on-Avon,
+Stroud,
+Suffolk Coastal,
+Sunderland,
+Surrey Heath,
+Sutton,
+Swale,
+Swindon,
+Tameside,
+Tamworth,
+Tandridge,
+Taunton Deane,
+Teignbridge,
+Telford and Wrekin,
+Tendring,
+Test Valley,
+Tewkesbury,
+Thanet,
+The City of Brighton and Hove,
+Three Rivers,
+Thurrock,
+Tonbridge and Malling,
+Tor-faen - Torfaen,
+Torbay,
+Torridge,
+Tower Hamlets,
+Trafford,
+Tunbridge Wells,
+Uttlesford,
+Vale of Glamorgan,
+Vale of White Horse,
+Wakefield,
+Walsall,
+Waltham Forest,
+Wandsworth,
+Warrington,
+Warwick,
+Watford,
+Waveney,
+Waverley,
+Wealden,
+Wellingborough,
+Welwyn Hatfield,
+West Berkshire,
+West Devon,
+West Dorset,
+West Lancashire,
+West Lindsey,
+West Oxfordshire,
+West Somerset,
+Weymouth and Portland,
+Wigan,
+Wiltshire,
+Winchester,
+Windsor and Maidenhead,
+Wirral,
+Woking,
+Wokingham,
+Worcester,
+Worthing,https://www.adur-worthing.gov.uk
+Wrecsam - Wrexham,
+Wychavon,
+Wycombe,
+Wyre Forest,
+Wyre,
+York,
+,
